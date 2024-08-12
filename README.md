@@ -1,4 +1,4 @@
-## Ing. informática }
+## Ing. informática
 
 <!--
 **Jorgon29/Jorgon29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

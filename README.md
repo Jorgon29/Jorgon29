@@ -1,6 +1,6 @@
 # Jorge González
 
-Estudiante de ingeniería informática apasionado a las matemáticas y el desarrollo de aplicaciones en múltiples capas. 
+Estudiante de ingeniería informática fan de las matemáticas y el desarrollo de aplicaciones en múltiples capas. 
 Estos son algunos enlaces de contacto:
 + [Github universitario](https://github.com/Jorgon29)
 + [Github personal](https://github.com/J0rgon)
@@ -11,8 +11,6 @@ Estos son algunos enlaces de contacto:
 ###### Universitarios (colaborativos)
 + [RollToGo (Kotlin+JetpackCompose/Springboot+PostgreSQL)](https://github.com/Jorgon29/RollToGo)
 + [API para ESP32](https://github.com/Jorgon29/ArtefactosApi)
-
-Y algunos que no puedo mostrar públicamente.
 
 ### Tecnologías
 
